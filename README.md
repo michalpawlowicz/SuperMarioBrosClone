@@ -13,7 +13,7 @@ Already done:
 
 In progress:
 -----
-- Collisions with gameObjects (including questionmark blocks and brick blocks)
+- Collisions with questionmark blocks
 - Enemies
 - Castle and final animation
 - Scoring system and timer

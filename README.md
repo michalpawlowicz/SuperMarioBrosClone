@@ -10,6 +10,7 @@ Already done:
 - Basic movements and jumping
 - Camer movement
 - Questionsmark blocks
+- Animations
 
 In progress:
 -----

@@ -18,6 +18,7 @@ In progress:
 - Castle and final animation
 - Scoring system and timer
 - Proper start menu
+- HUD
 
 ![screenshoot1](https://cloud.githubusercontent.com/assets/6627307/22863164/af4aa7b2-f13b-11e6-94b2-7311577d9cdc.png)
 ![screenshoot2](https://cloud.githubusercontent.com/assets/6627307/22863165/af9903f8-f13b-11e6-9a61-91563cc45968.png)
